@@ -23,4 +23,4 @@ bool IsFull();
 private:
 NodeType *front, *rear;
 };
-#endif // QUETYP
+#endif
